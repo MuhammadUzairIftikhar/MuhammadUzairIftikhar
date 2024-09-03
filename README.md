@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @MuhammadUzairIftikhar
-- 👀 I’m interested in becoming a Software Engineer...
-- 🌱 I’m currently learning Software Engineering in C++ Programming Language ...
-- 💞️ I’m looking to collaborate on any project related to c++ or any Graphics or Web Development Need...
+👋 Hi, I'm Muhammad Uzair Iftikhar, a passionate software engineering student currently in my 6th semester of BSSE. Alongside my studies, I’m gaining industry experience as a Core System Intern. I have a strong command over a diverse set of technologies including C++, C#, .NET, .NET Core, .NET Core Web API, SQL, PostgreSQL, MongoDB, RabbitMQ, Docker, and more.
 
-
-<!---
-MuhammadUzairIftikhar/MuhammadUzairIftikhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m particularly interested in microservices architecture and have hands-on experience with tools like MinIO, Kong, Grafana Loki, Rancher, and Hangfire. I enjoy solving complex problems and am always eager to learn new technologies. Let's connect and collaborate on innovative projects!
